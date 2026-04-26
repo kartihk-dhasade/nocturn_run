@@ -1,0 +1,12 @@
+/* Reset */
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #0f0f1a;
+    /* dark gothic base */
+}
+
+/* Canvas full screen */
+canvas {
+    display: block;
+}
